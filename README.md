@@ -7,7 +7,7 @@ Foydalanuvchi bilan kundalik odatiy suhbatlar uchun AI kutubxona.
 
 ## O'rnatish
 ```bash
-pip install neonchat
+pip install git clone https://github.com/SuhoPro777/NeonChat.git
 ```
 
 ## Ishlatish
